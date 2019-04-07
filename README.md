@@ -55,18 +55,19 @@ The data set has 97 observations and 35 variables. This data is explains about t
  ---
 
 
----
-R Markdown Structure:
+
+## R Markdown Structure:
+              
+
+```{r setup, include=FALSE}
 title: "Git HUb Project"
 author: "Raghu Sanugommula"
 date: "7th April 2019"
 output: 
         html_document:
-                code_folding: hide
-
+code_folding: hide 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.width = 12, fig.height = 8, echo = TRUE)
-
 
 ### Purpose of the GitHub Project 
 
@@ -80,10 +81,8 @@ Above Text goes hers
 
 Above text goes here
 
-
 ```{r warning=FALSE, message=FALSE}
 #1 - Glimpse into the data set code goes here
-
 We fold the code for allowing used to whether view or not view the code on final HTML.
 
 ---
