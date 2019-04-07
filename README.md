@@ -1,4 +1,5 @@
 # Exploratory Analysis Git Hub Project
+
 ---
 title: "Exploratory Analysis Git Hub Project"
 author: "Raghu Sanugommula"
@@ -7,7 +8,6 @@ output:
         html_document:
                 code_folding: hide
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.width = 12, fig.height = 8, echo = TRUE)
 
