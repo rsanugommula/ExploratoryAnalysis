@@ -1,1 +1,21 @@
-### This folder will be used to store the code that was practiced through out the semester.
+###Title: Code Portfolio ###
+Objective: The objective of this task is to get hands on experience with R language.This code library will heplp remind what we have learned throughout the semester
+at any point of time in the carrier. It is a great practice to orginize the code and refer in the future whenever needed. Also, it helps to 
+quick peek into what are the topics we have learned.This code portfolio will have the four different files organized to show the key topics 
+were practiced when a dataset is given. These four topics in exploratory analysis is vital to derive a business value out of a data set.Following these
+four steps would give an understanding of the data that we are about to explore and visualize to make effective decisions that could impact the
+world stepping towards innovation.
+
+1. Data Import 
+Data import will have the code related to the steps that we take to import the datasets.
+2. Data wrangling:
+Is the step we perform before we do detailed analysis and then a visual speaking the words.in other terms preparing the data.
+3. Data Analysis:
+It is vital step where the visualizations should be wisely chosen based on the analysis that we do. Data should be properly understandable. 
+accuaratley interpreated, and choose the correct visualizations.
+4. Data Visualization
+a final  step where a business decision could be made. visualization is important and is depedend on both wragling and analysis tasks that we 
+do prior to visulization.
+
+
+
